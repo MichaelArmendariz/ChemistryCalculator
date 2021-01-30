@@ -5,7 +5,7 @@ A place for the files doing the work behind my chemistry/cheminformatics calcula
 
 The program will take a moment to accumulate data from a few different webpages. After this pause, a menu will appear allowing the user to input the index of one of the listed headings:
 
-![Menu Screen](https://github.com/MichaelArmendariz/ChemistryCalculator/blob/main/Chemistry%20Calculator%20Demo%20Images/menu.png)
+![Menu Screen](https://github.com/MichaelArmendariz/ChemistryCalculator/blob/main/images/menu.png)
 
 This description will focus on the use of each one at a time.
 
