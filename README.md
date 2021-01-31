@@ -77,7 +77,7 @@ Again, not all compounds are compatible with the interface and may cause the pro
   
 ### _Degree of Unsaturation_
 <p>
-  Enter a "4". A prompt will print asking for the input of a molecule. As per usual, enter the name of whatever molecule may come to mind and locate the desired index. At this point, a message will print with the degree of unsaturation of the molecule. That's it.
+  Enter a 4. A prompt will print asking for the input of a molecule. As per usual, enter the name of whatever molecule may come to mind and locate the desired index. At this point, a message will print with the degree of unsaturation of the molecule. That's it.
 
 ![Degree of Unsaturation 1](https://github.com/MichaelArmendariz/ChemistryCalculator/blob/main/images/degree%20of%20unsaturation%20(1).png)
 
