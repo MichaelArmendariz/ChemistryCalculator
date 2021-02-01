@@ -1,4 +1,4 @@
-# ChemistryCalculator
+# chemistry-calculator
 A place for the files doing the work behind my chemistry/cheminformatics calculator project
 
 ##  INSTRUCTIONS:
